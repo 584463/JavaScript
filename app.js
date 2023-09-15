@@ -16,6 +16,7 @@ let length = 'mstr3sl';
 /////////////////////////
 let vab1 = 'JavaScript';
 let vab2 = 'welcome to ' + vab1 +'.';//String Concatenation, you must put spase in ' ' to spilt words.
+
 /////////////////////////////
 let bracket = 'JavaScript';// braket notation.
 let colors = ['reds', 'blue', 'purple'];//Arays
@@ -34,6 +35,17 @@ console.log(reasult);
 
 
 
+console.log(message);//variables
+console.log(message2);//multi-line strings
+console.log(lan);// Template Literals
+console.log(typeof name)//string
+console.log(typeof age)//number
+console.log(typeof result);//boolean typeof reasult
+console.log(result);//boolean false
+console.log(result2);//boolean true
+console.log(undefined);//undefined if you put typeof is gona be the same 
+console.log(value * 'JavaScript')//NuN mean is expect numbers only
+console.log(nul)//Null
 console.log(message);//variables
 console.log(message2);//multi-line strings
 console.log(lan);// Template Literals
